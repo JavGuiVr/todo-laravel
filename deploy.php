@@ -13,7 +13,7 @@ add('writable_dirs', []);
 
 // Hosts
 
-host('184.73.0.55')
+host('34.229.124.216')
     ->set('remote_user', 'prod-ud4-deployer')
     ->set('deploy_path', '/var/www/prod-ud4-a4/html');
 
